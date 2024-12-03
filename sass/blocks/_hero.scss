@@ -1,0 +1,46 @@
+.services__subtitle {
+  text-align: center;
+  color: $bg-color;
+}
+ 
+.services__title {
+  text-align: center;
+  margin-top: 16px;
+}
+
+.services__text {
+  text-align: center;
+  margin-top: 16px;
+}
+
+.father {
+  display: flex;
+  margin-top: 78px;
+}
+
+
+
+
+//footer
+
+
+
+.reserved {
+  background-color: $bg-color;
+  padding: 54px 935px 52px 131px;
+  margin-top: 54px;
+}
+
+.reserved__text {
+  color: $text-color;
+  font-size: 20px;
+  font-weight: 400;
+  line-height: 25px;
+}
+
+
+.reserved__father {
+  display: flex;
+  justify-content: space-between;
+  gap: 684px;
+}
